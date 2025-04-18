@@ -1,6 +1,7 @@
-streamlit>=1.31.0
-crewai==0.114.0
-python-dotenv>=1.0.0
-google-generativeai>=0.3.2
-requests>=2.31.0
-pandas>=2.2.0
+streamlit>=1.31,<1.32
+crewai>=0.114,<0.115
+python-dotenv>=1.0,<1.1
+google-generativeai>=0.8,<0.9
+pyspellchecker>=0.8,<0.9
+protobuf==3.20.3
+google-api-core==2.19.2
